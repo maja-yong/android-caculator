@@ -9,7 +9,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
-        android:hint="숫자1" />
+        android:hint="숫자1"/>
     <EditText
         android:id="@+id/Edit2"
         android:layout_width="wrap_content"
@@ -22,7 +22,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
-        android:text="더하기" />
+        android:text="더하기"
+        android:backgroundTint="#FF00FF"/>
     <Button
         android:id="@+id/BtnSub"
         android:layout_width="match_parent"
